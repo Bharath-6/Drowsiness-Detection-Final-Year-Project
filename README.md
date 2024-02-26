@@ -1,6 +1,6 @@
 ## Real-Time Drowsiness Detection GitHub Repository ReadME
 
-This repository contains the source code and documentation for a real-time drowsiness detection system using eye blinking, developed by students from GITAM School of Technology, Bangalore campus.
+This repository contains the source code for a real-time drowsiness detection system using eye blinking, developed by Myself and My team from GITAM School of Technology, Bangalore campus.
 
 ### Purpose
 The goal of this project is to create a low-cost, accurate, and user-friendly solution for detecting driver drowsiness, thereby reducing traffic accidents caused by fatigued drivers.
